@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1,-----NICKS LIVE TV LIST-----
+Part of the redemption build
+#EXTINF:-1    group-title="Streams",NBC
+http://free-premium-iptv.ddns.net:9090/load/freestreams/1.mpegts
+#EXTINF:-1    group-title="Streams",AMC
+http://free-premium-iptv.ddns.net:9090/load/freestreams/3.mpegts
+#EXTINF:-1    group-title="Streams",FOX
+http://free-premium-iptv.ddns.net:9090/load/freestreams/6.mpegts
+#EXTINF:-1    group-title="Streams",WWE Network
+http://free-premium-iptv.ddns.net:9090/load/freestreams/57.mpegts
+#EXTINF:-1    group-title="Streams",Food Network
+http://free-premium-iptv.ddns.net:9090/load/freestreams/83.mpegts
