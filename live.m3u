@@ -1,10 +1,8 @@
 #EXTM3U
-#EXTINF:-1,-----NICKS LIVE TV LIST-----
-#EXTINF:-1,-----------
-#EXTINF:-1,-----Walking Dead-----
-#EXTINF:-1,-----Sunday Nights 02:00am GMT-----
-#EXTINF:-1    group-title="Streams",AMC (Walking Dead)
+#EXTINF:-1,**NICKS LIVE TV LIST**
+#EXTINF:-1,-Walking Dead Returns 12th February-
+#EXTINF:-1    group-title="Streams",AMC (Walking Dead) [Live @ 02:00am Sunday night GMT)
 http://free-premium-iptv.ddns.net:9090/load/freestreams/3.mpegts
-#EXTINF:-1,-----WWE LIVE, RAW & SMACKDOWN LIVE! Mondays and Tuesdays @ 02:00am-----
+#EXTINF:-1,-----WWE NETWORKLIVE, RAW & SMACKDOWN LIVE! Mondays and Tuesdays @ 02:00am-----
 #EXTINF:-1    group-title="Streams",WWE Network
 http://free-premium-iptv.ddns.net:9090/load/freestreams/57.mpegts
