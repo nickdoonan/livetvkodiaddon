@@ -1,12 +1,11 @@
 #EXTM3U
 #EXTINF:-1,-----NICKS LIVE TV LIST-----
-Part of the redemption build
-#EXTINF:-1    group-title="Streams",NBC
-http://free-premium-iptv.ddns.net:9090/load/freestreams/1.mpegts
-#EXTINF:-1    group-title="Streams",AMC
+#EXTINF:-1,-----------
+#EXTINF:-1,-----Walking Dead-----
+#EXTINF:-1,-----Sunday Nights 02:00am GMT-----
+#EXTINF:-1    group-title="Streams",AMC (Walking Dead)
 http://free-premium-iptv.ddns.net:9090/load/freestreams/3.mpegts
-#EXTINF:-1    group-title="Streams",FOX
-http://free-premium-iptv.ddns.net:9090/load/freestreams/6.mpegts
+#EXTINF:-1,-----WWE LIVE, RAW & SMACKDOWN LIVE! Mondays and Tuesdays @ 02:00am-----
 #EXTINF:-1    group-title="Streams",WWE Network
 http://free-premium-iptv.ddns.net:9090/load/freestreams/57.mpegts
 #EXTINF:-1    group-title="Streams",Food Network
