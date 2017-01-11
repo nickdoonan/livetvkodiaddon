@@ -8,5 +8,3 @@ http://free-premium-iptv.ddns.net:9090/load/freestreams/3.mpegts
 #EXTINF:-1,-----WWE LIVE, RAW & SMACKDOWN LIVE! Mondays and Tuesdays @ 02:00am-----
 #EXTINF:-1    group-title="Streams",WWE Network
 http://free-premium-iptv.ddns.net:9090/load/freestreams/57.mpegts
-#EXTINF:-1    group-title="Streams",Food Network
-http://free-premium-iptv.ddns.net:9090/load/freestreams/83.mpegts
